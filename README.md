@@ -1,6 +1,8 @@
 # Smart Cane for Blind People | Bengala Inteligente para Pessoas Cegas
 
-Project created in [Tinkercad Circuits] (https://www.tinkercad.com/things/2zf2aNh3tPM-smart-cane-for-blind-people?sharecode=UcpeKC4ccouz-GRL802ICmL490bSLYakYSFHOJxbHKk)
+Project created in [Tinkercad Circuits]
+
+https://www.tinkercad.com/things/2zf2aNh3tPM-smart-cane-for-blind-people
 
 ## Circuito
 ![Simulação do circuito](circuit.png)
